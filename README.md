@@ -36,6 +36,7 @@ For starters, you can experiment with the [Tetryon sandbox](https://github.com/a
  
 With respect to the Tetryon Public Test Network, 
  * The Dashboard for the public network is live at [http://tetryon.theoan.com](http://tetryon.theoan.com). 
+ * The Coin Faucet is live at [gitter.im/aionnetwork/tetryon-faucet](https://gitter.im/aionnetwork/tetryon-faucet). You can request public test-network coins by pasting your address in the Gitter chat! 
  * *Coming Soon*: Documentation and tutorials on Tetryon will soon be made available on our [documentation portal](https://developer.theoan.com/docs/custom-kits).
- * *Coming Soon*: A Coin Faucet will be live soon, to request public test-network coins.
+
  
